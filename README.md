@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* interested in C++
+* interested in xCPC
+* interested in OOP/Design Pattern/FP
+
+* https://www.acmicpc.net/user/invrtd_h
