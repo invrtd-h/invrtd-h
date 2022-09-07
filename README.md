@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 * interested in xCPC
 * interested in OOP/Design Pattern/FP
 
-* https://www.acmicpc.net/user/invrtd_h
+* Attempting solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
+* https://invrtd-h.tistory.com
