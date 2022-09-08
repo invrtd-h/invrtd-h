@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * interested in C++
 * interested in xCPC
-* interested in OOP/Design Pattern/FP
+* studying OOP/Design Pattern/FP
 
 * Attempting solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
 * https://invrtd-h.tistory.com
