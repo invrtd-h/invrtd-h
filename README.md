@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 * interested in C++
 * interested in xCPC
-* studying OOP/Design Pattern/FP
+* studying OOP/Design Pattern
+* studying FP
 
-* Attempting solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
+* solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
 * https://invrtd-h.tistory.com
 
 개발자들을 위한 개발자가 되고 싶습니다. 네, 라이브러리를 만들고 싶다는 얘기입니다...
