@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * studying OOP/Design Pattern
 * studying FP
 
-* solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
+* Baekjoon Online Judge - solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
 * https://invrtd-h.tistory.com
 
 개발자들을 위한 개발자가 되고 싶습니다. 네, 라이브러리를 만들고 싶다는 얘기입니다...
