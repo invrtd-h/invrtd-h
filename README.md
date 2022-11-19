@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 * interested in C++
-* interested in xCPC
 * studying OOP/Design Pattern
 * studying FP
 
+* 2022 ICPC Seoul Regional #28
 * Baekjoon Online Judge - solved.ac TOP 500 ... https://www.acmicpc.net/user/invrtd_h
 * https://invrtd-h.tistory.com
