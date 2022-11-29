@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 * interested in C++
 * studying OOP/Design Pattern/FP
 * **2022 ICPC Seoul Regional #28**
-* Baekjoon Online Judge - solved.ac TOP 400 ... https://www.acmicpc.net/user/invrtd_h
 * https://invrtd-h.tistory.com
 
 <p align=center><a href="https://solved.ac/profile/invrtd_h"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=invrtd_h"></a></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=invrtd-h)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invrtd-h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
