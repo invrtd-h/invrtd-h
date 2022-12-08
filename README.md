@@ -1,4 +1,4 @@
-### ***"Do not ever betray the human mind"*** - *poetry [1, 2, ..., R-L+1 stars falling from the sky] (2022)*
+## ***"절대로 인간의 마음을 저버리지 마."*** - 시집 [하늘에서 떨어지는 1, 2, ..., R-L+1개의 별] (2023 출간 예정)
 
 <!--
 **invrtd-h/invrtd-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
