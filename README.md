@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 * **2022 ICPC Seoul Regional #28**
 * https://invrtd-h.tistory.com
 
-**시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) 구매하기**
-
 <p align=center><a href="https://solved.ac/profile/invrtd_h"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=invrtd_h"></a></p>
 
 [![invrtd-h's github stats](https://github-readme-stats.vercel.app/api?username=invrtd-h&show_icons=true&theme=dracula)](https://github.com/invrtd-h)
