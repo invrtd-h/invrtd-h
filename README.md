@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* interested in C++
-* studying: Object Oriented Programming, Design Patterns, Functional Programming
 * **2022 ICPC Seoul Regional #28**
 * https://invrtd-h.tistory.com
 
