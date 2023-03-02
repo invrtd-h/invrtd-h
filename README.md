@@ -23,6 +23,7 @@ I'm interested in...
 * Modern Programming Language Features
 * Programming Paradigms (Like OOP, FP)
 * Concurrent Programming
+* Compiler Theory
 
 My Blog (Korean)
 
