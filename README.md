@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Hyegeun Song
 
 * **2022 ICPC Seoul Regional #28**
+* Acquired Samsung Software Certification (Professional; 2023.02.24)
 * https://invrtd-h.tistory.com
 
 ## Stacks
