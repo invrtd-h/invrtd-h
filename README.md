@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 * **2022 ICPC Seoul Regional #28**
 * Acquired Samsung Software Certification (Professional; 2023.02.24)
+
+I'm interested in...
+
+* Modern Programming Language Features
+* Programming Paradigms (Like OOP, FP)
+* Concurrent Programming
+
+My Blog (Korean)
+
 * https://invrtd-h.tistory.com
 
 ## Stacks
