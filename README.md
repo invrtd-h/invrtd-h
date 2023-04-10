@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * **2022 ICPC Seoul Regional #28**
 * Acquired Samsung Software Certification (Professional; 2023.02.24)
-* Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) (2023.04.15)
+* Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.15)
 
 I'm interested in...
 
