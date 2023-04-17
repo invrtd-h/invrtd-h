@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * **2022 ICPC Seoul Regional #28** (2022.11.19)
 * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 * Acquired Samsung Software Certification (Professional; 2023.02.24)
-* Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.15)
+* Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.16)
 
 I'm interested in...
 
