@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 ## Hyegeun Song
 
-* **2021 대학생 수학 경시대회 은상** (2021.12.18)
-* **2022 ICPC Seoul Regional #28** (2022.11.19)
+* **2021 Collegiate Mathematical Competition (@ [KMS](kms.or.kr)) - Silver Prize** (2021.12.18)
+* 2022 GIST Mentoring Program - Mentor, Linear Algebra (2022 Fall)
+* **2022 ICPC Seoul Regional - 28<sup>th</sup> place** (2022.11.19)
 * Acquired Samsung Software Certification (Professional; 2023.02.24)
+* Teaching Assistant of GS2004 Linear Algebra, at GIST (2023 Spring)
 * Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.16)
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
-* Teaching Assistant of GS2004 Linear Algebra, at GIST (2023 Spring)
 * *Not related to CS*
   * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 
