@@ -13,7 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hyegeun Song
+## 송혜근 Hyegeun Song
+
+* **2021 대학생 수학경시대회 은상** (2021.12.18)
+* 2022 GIST 멘토링 프로그램 - 멘토, 선형대수학 (2022 Fall)
+* **2022 ICPC 서울 리저널 - 28위** (2022.11.19)
+* 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 Winter)
+* 삼성전자 SW 역량 테스트 Pro 취득 (2023.02.24)
+* GIST 선형대수학(GS2004) 조교 (2023 Spring)
+* 백준 [2023 제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) 출제자 (2023.04.16)
+  * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
+  * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
+* *CS 범위 외*
+  * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
+
+#### English
 
 * **2021 Collegiate Mathematical Competition (@ [KMS](kms.or.kr)) - Silver Prize** (2021.12.18)
 * 2022 GIST Mentoring Program - Mentor, Linear Algebra (2022 Fall)
@@ -28,8 +42,7 @@ Here are some ideas to get you started:
 
 I'm interested in...
 
-* Modern Programming Language Features
-* Programming Paradigms (Like OOP, FP)
+* Programming Paradigms (Like OOP, FP) and Programming Language Theory
 * Concurrent Programming
 * Compiler Theory
 
