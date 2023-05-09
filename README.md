@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 * **2021 대학생 수학경시대회 은상** (2021.12.18)
 * 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 Fall)
-* **2022 ICPC 서울 리저널 - 28위** (2022.11.19)
+* **2022 ICPC 서울 리저널 (본선) - 28위** (2022.11.19)
 * 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 Winter)
 * 삼성전자 SW 역량 테스트 Pro 취득 (2023.02.24)
 * GIST 선형대수학(GS2004) 조교 (2023 Spring)
-* 백준 [2023 제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) 출제자 (2023.04.16)
+* 백준 [제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) 출제자 (2023.04.16)
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
 * *CS 범위 외*
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * **2022 ICPC Seoul Regional - 28<sup>th</sup> place** (2022.11.19)
 * Acquired Samsung Software Certification (Professional; 2023.02.24)
 * Teaching Assistant of GS2004 Linear Algebra, at GIST (2023 Spring)
-* Setter of [2023 1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.16)
+* Setter of [1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.16)
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
 * *Not related to CS*
