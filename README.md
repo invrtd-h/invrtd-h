@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
 * *CS 범위 외*
-  * **제3회 [광주과기원 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
+  * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
   * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 
 #### English
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
 * *Not related to CS*
-  * [제3회 GIST 문학상](https://gistnews.co.kr/?p=5859&) - 시 부문, 가작 수상 (2022.09.01)
+  * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
   * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 
 I'm interested in...
