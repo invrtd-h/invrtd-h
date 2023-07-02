@@ -66,10 +66,6 @@ My Blog (Korean)
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
 
-### Other information
-<img src="https://img.shields.io/github/languages/top/beygee/survive"/>&nbsp;
-<img src="https://img.shields.io/github/repo-size/beygee/survive"/>&nbsp;
-
 ### What I do not love
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
 
