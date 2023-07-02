@@ -24,27 +24,16 @@ Here are some ideas to get you started:
 * 백준 [제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) 출제자 (2023.04.16)
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
+* 2023 UC Berkeley 여름학기 교환학생 (2023 Summer)
 * *CS 범위 외*
-  * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
-  * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
-
-#### English
-
-* **2021 Collegiate Mathematical Competition (@ [KMS](kms.or.kr)) - Silver Prize** (2021.12.18)
-* 2022 GIST Mentoring Program - Mentor, Linear Algebra (2022 Fall)
-* **2022 ICPC Seoul Regional - 28<sup>th</sup> place** (2022.11.19)
-* Acquired Samsung Software Certification (Professional; 2023.02.24)
-* Teaching Assistant of GS2004 Linear Algebra, at GIST (2023 Spring)
-* Setter of [1st AGCU Cup](https://www.acmicpc.net/contest/view/967) @ baekjoon online judge (2023.04.16)
-  * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
-  * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
-* *Not related to CS*
+  * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09~)
   * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
   * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 
 I'm interested in...
 
-* Programming Paradigms (Like OOP, FP) and Programming Language Theory
+* Programming Paradigms (Like OOP, FP)
+* Programming Language Theory
 * Concurrent Programming
 * Compiler Theory
 
@@ -68,6 +57,8 @@ My Blog (Korean)
 ### Basic level
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>&nbsp;
@@ -75,7 +66,9 @@ My Blog (Korean)
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
 
-
+### Other information
+<img src="https://img.shields.io/github/languages/top/beygee/survive"/>&nbsp;
+<img src="https://img.shields.io/github/repo-size/beygee/survive"/>&nbsp;
 
 ### What I do not love
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
