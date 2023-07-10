@@ -66,9 +66,6 @@ My Blog (Korean)
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
 
-### What I do not love
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
-
 <p align=center><a href="https://solved.ac/profile/invrtd_h"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=invrtd_h"></a></p>
 
 [![invrtd-h's github stats](https://github-readme-stats.vercel.app/api?username=invrtd-h&show_icons=true&theme=dracula)](https://github.com/invrtd-h)
