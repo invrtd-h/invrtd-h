@@ -47,6 +47,7 @@ My Blog (Korean)
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white"/>&nbsp;
 </br>
 <img src="https://img.shields.io/badge/PLY-000000?style=flat-square&logoColor=white">
 </br>
@@ -58,7 +59,6 @@ My Blog (Korean)
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>&nbsp;
