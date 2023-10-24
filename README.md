@@ -16,17 +16,18 @@ Here are some ideas to get you started:
 ## 송혜근 Hyegeun Song
 
 * **2021 대학생 수학경시대회 은상** (2021.12.18)
-* 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 Fall)
+* 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 가을)
 * **2022 ICPC 서울 리저널 (본선) - 28위** (2022.11.19)
-* 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 Winter)
+* 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 겨울)
 * 삼성전자 SW 역량 테스트 Pro 취득 (2023.02.24)
-* GIST 선형대수학(GS2004) 조교 (2023 Spring)
+* GIST 선형대수학(GS2004) 조교 (2023 봄)
 * 백준 [제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) 출제자 (2023.04.16)
   * [K. I LOVE JavaScript](https://www.acmicpc.net/problem/27969)
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
-* 2023 UC Berkeley 여름학기 교환학생 (2023 Summer)
+* 2023 UC Berkeley 여름학기 교환학생
+* 2023 KAIST 가을학기 교환학생
 * *CS 범위 외*
-  * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09~)
+  * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09 ~ 2023.08)
   * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
   * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
 
