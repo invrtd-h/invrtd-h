@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 송혜근 Hyegeun Song
 
-* **2021 대학생 수학경시대회 은상** (2021.12.18)
+* **2021 대학생 수학경시대회 2분야 은상** (2021.12.18)
 * 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 가을)
 * **2022 ICPC 서울 리저널 (본선) - 28위** (2022.11.19)
 * 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 겨울)
@@ -37,10 +37,6 @@ I'm interested in...
 * Programming Language Theory
 * Concurrent Programming
 * Compiler Theory
-
-My Blog (Korean)
-
-* https://invrtd-h.tistory.com
 
 ## Stacks
 
