@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   * [O. 지연 평가](https://www.acmicpc.net/problem/27973)
 * 2023 UC Berkeley 여름학기 교환학생
 * 2023 KAIST 가을학기 교환학생
-* **2023 ICPC 서울 리저널 (본선) - 49위** (2023.11.26)
+* **2023 ICPC 서울 리저널 (본선) - 49위** (2023.11.25)
 * *CS 범위 외*
   * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09 ~ 2023.08)
   * **제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상** (2022.09.01)
