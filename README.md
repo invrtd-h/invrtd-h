@@ -30,10 +30,7 @@ I am currently working at [GIST Programming Analysis Lab](https://gist-pal.githu
 * 교외 활동
   * 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 겨울)
   * 삼성전자 SW 역량 테스트 Pro 취득 (2023.02.24)
-  * 백준 커뮤니티 대회 출제
-    * [제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) (2023.04.16)
-    * [파댕이컵](https://www.acmicpc.net/contest/view/1208) (2023.12.17)
-    * [제2회 미적확통컵](https://www.acmicpc.net/contest/view/1218) (2023.12.23)
+  * 백준 커뮤니티 대회 출제 [제1회 와쿠컵](https://www.acmicpc.net/contest/view/967) [파댕이컵](https://www.acmicpc.net/contest/view/1208) [제2회 미적확통컵](https://www.acmicpc.net/contest/view/1218)
 * *CS 범위 외*
   * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09 ~ 2023.08)
   * 제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상 (2022.09.01)
