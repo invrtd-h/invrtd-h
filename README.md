@@ -24,7 +24,8 @@ I am currently working at [GIST Programming Analysis Lab](https://gist-pal.githu
   * 2023 ICPC 서울 리저널 (본선) - 49위 (2023.11.25)
 * 교내 활동
   * 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 가을)
-  * GIST 선형대수학(GS2004) 조교 (2023 봄)
+  * GIST 선형대수학 (GS2004) 조교 (2023 봄)
+  * GIST 객체 지향 프로그래밍 (GS2408) 조교 (2024 봄)
   * 2023 UC Berkeley 여름학기 교환학생
   * 2023 KAIST 가을학기 교환학생
 * 교외 활동
