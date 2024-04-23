@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 I am currently working at [GIST Programming Analysis Lab](https://gist-pal.github.io/) as an intern!
 
 * 대회 수상 경력
-  * 2021 대학생 수학경시대회 2분야 은상 (2021.12.18)
-  * 2022 ICPC 서울 리저널 (본선) - 28위 (2022.11.19)
-  * 2023 대학생 수학경시대회 2분야 은상 (2023.11.11)
-  * 2023 ICPC 서울 리저널 (본선) - 49위 (2023.11.25)
+  * 대학생 수학경시대회 - 2021 **2분야 은상**, 2023 **2분야 은상**
+  * ICPC - 2022 **본선 28위**, 2023 **본선 49위**
 * 교내 활동
   * 2022 GIST 멘토링 프로그램 - 선형대수학 멘토 (2022 가을)
   * GIST 선형대수학 (GS2004) 조교 (2023 봄)
@@ -35,8 +33,7 @@ I am currently working at [GIST Programming Analysis Lab](https://gist-pal.githu
 * *CS 범위 외*
   * [지스트신문](https://gistnews.co.kr) 디자이너 (2021.09 ~ 2023.08)
   * 제3회 [GIST 문학상](https://gistnews.co.kr/?p=5859&) 시 부문 가작 수상 (2022.09.01)
-  * 시집 [하늘에서 떨어지는 1, 2, ⋯, R-L+1개의 별](https://www.bookk.co.kr/book/view/159934) (2023.01.02)
-  * 2024년 [시와편견] 등단
+  * 2024년 [시와편견] 등단 (신인문학상 수상)
 
 I'm interested in...
 
