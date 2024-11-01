@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 송혜근 Hyegeun Song
 
-I am currently working at [GIST Programming Analysis Lab](https://gist-pal.github.io/) as an intern!
+I am currently working at [GIST Program Analysis Lab](https://gist-pal.github.io/) as an intern!
 
 * 대회 수상 경력
   * 대학생 수학경시대회 - 2021 **2분야 은상**, 2023 **2분야 은상**
@@ -26,6 +26,7 @@ I am currently working at [GIST Programming Analysis Lab](https://gist-pal.githu
   * GIST 객체 지향 프로그래밍 (GS2408) 조교 (2024 봄)
   * 2023 UC Berkeley 여름학기 교환학생
   * 2023 KAIST 가을학기 교환학생
+  * 2024 GIST 알고리즘 마스터즈 운영진 (출제자)
 * 교외 활동
   * 삼성전자 2023 동계 SW 역량강화 특강 수료 (2023 겨울)
   * 삼성전자 SW 역량 테스트 Pro 취득 (2023.02.24)
