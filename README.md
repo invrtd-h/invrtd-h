@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ## 송혜근 Hyegeun Song
 
-I am currently working at [GIST Program Analysis Lab](https://gist-pal.github.io/)!
-
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
